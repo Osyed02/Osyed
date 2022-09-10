@@ -1,2 +1,0 @@
-# Osyed
-Website
